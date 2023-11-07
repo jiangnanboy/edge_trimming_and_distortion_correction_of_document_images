@@ -30,8 +30,6 @@
 
 1、github：https://github.com/jiangnanboy
 
-2、博客：https://www.cnblogs.com/little-horse/
-
-3、邮件:2229029156@qq.com
+2、email:2229029156@qq.com
 
 
